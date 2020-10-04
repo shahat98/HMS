@@ -1,0 +1,14 @@
+C:\Users\Shahat\source\repos\Hospital_Managment_System\bin\Debug\Hospital_Managment_System.exe
+C:\Users\Shahat\source\repos\Hospital_Managment_System\bin\Debug\Hospital_Managment_System.exe.config
+C:\Users\Shahat\source\repos\Hospital_Managment_System\obj\Debug\Hospital_Managment_System.doc_page.resources
+C:\Users\Shahat\source\repos\Hospital_Managment_System\obj\Debug\Hospital_Managment_System.Doc_patiants.resources
+C:\Users\Shahat\source\repos\Hospital_Managment_System\obj\Debug\Hospital_Managment_System.LogIn.resources
+C:\Users\Shahat\source\repos\Hospital_Managment_System\obj\Debug\Hospital_Managment_System.NursePage.resources
+C:\Users\Shahat\source\repos\Hospital_Managment_System\obj\Debug\Hospital_Managment_System.PatiantPage4nurse.resources
+C:\Users\Shahat\source\repos\Hospital_Managment_System\obj\Debug\Hospital_Managment_System.Patiant_page_4doc.resources
+C:\Users\Shahat\source\repos\Hospital_Managment_System\obj\Debug\Hospital_Managment_System.Properties.Resources.resources
+C:\Users\Shahat\source\repos\Hospital_Managment_System\obj\Debug\Hospital_Managment_System.csproj.GenerateResource.cache
+C:\Users\Shahat\source\repos\Hospital_Managment_System\obj\Debug\Hospital_Managment_System.exe
+C:\Users\Shahat\source\repos\Hospital_Managment_System\obj\Debug\Hospital_Managment_System.pdb
+C:\Users\Shahat\source\repos\Hospital_Managment_System\bin\Debug\Hospital_Managment_System.pdb
+C:\Users\Shahat\source\repos\Hospital_Managment_System\obj\Debug\Hospital_Managment_System.csprojAssemblyReference.cache
